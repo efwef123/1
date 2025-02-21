@@ -107,7 +107,7 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 哑巴新娘,https://vd4.bdstatic.com/mda-pd65fcqpvdpkanap/sc/cae_h264/1680841801845215784/mda-pd65fcqpvdpkanap.mp4
 枉凝眉,https://vd2.bdstatic.com/mda-nddx9dk2eki080yt/sc/cae_h264_delogo/1649983263084375470/mda-nddx9dk2eki080yt.mp4
 葬花吟,https://vd3.bdstatic.com/mda-mjkj1692ze2seky9/sc/cae_h264/1634826428999539960/mda-mjkj1692ze2seky9.mp4
-陈瑞-父亲,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4247454&response=res&format=mp4&type=convert_url
+谁是我的新郎,https://vde3.bdstatic.com/mda-jjtyfwuht24hzxbr/mda-jjtyfwuht24hzxbr.mp4
 故事里的事,https://vd3.bdstatic.com/mda-kj2edghr88izs3np/mda-kj2edghr88izs3np.mp4
 冷漠-你把爱情给了谁,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
 阿冗-你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
