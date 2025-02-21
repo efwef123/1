@@ -99,7 +99,7 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 问情,https://vd2.bdstatic.com/mda-kirqb8wp0wx6nm8b/v1-cae/1080p/mda-kirqb8wp0wx6nm8b.mp4?auth_key=1602762598-0-0-7b8d213378f4f9825a4e3d01ca6846bc&bcevod_channel=searchbox
 万里长城永不倒,https://vd4.bdstatic.com/mda-kijvx9feb3k1j5n1/v1-cae/1080p/mda-kijvx9feb3k1j5n1.mp4?auth_key=1602762980-0-0-f48890957552ca8a1e663c944cc67e34&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=2668&spl
 于文文-体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
-誓言-求佛,http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
+美人吟,https://vd3.bdstatic.com/mda-qj831has8qjsxsxh/cae_h264/1728440332942401201/mda-qj831has8qjsxsxh.mp4
 阿悠悠-你若三冬,https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
 毛不易-不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
 白眉大侠,https://vd3.bdstatic.com/mda-naacqvbzkmeb7bw4/360p/h264_delogo/1641891709041650685/mda-naacqvbzkmeb7bw4.mp4
