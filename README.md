@@ -81,6 +81,8 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 影视歌曲,#genre#
+少林少林,https://vd3.bdstatic.com/mda-qfbdrfz1itj7hbfw/cae_h264/1718266870890822912/mda-qfbdrfz1itj7hbfw.mp4
+牧羊曲,https://vd3.bdstatic.com/mda-nksbdgpzvw9ma1jz/cae_h264/1669537109131705006/mda-nksbdgpzvw9ma1jz.mp4
 天大地大,https://vd3.bdstatic.com/mda-mcexx429hwxcvgbd/mda-mcexx429hwxcvgbd.mp4
 情深深雨蒙蒙,https://vd3.bdstatic.com/mda-qhrj8erjw1jwhyhw/cae_h264/1724679594709996643/mda-qhrj8erjw1jwhyhw.mp4
 新鸳鸯蝴蝶梦,https://vd3.bdstatic.com/mda-neqzhv3w89naqgv8/sc/cae_h264/1653522297532354132/mda-neqzhv3w89naqgv8.mp4
