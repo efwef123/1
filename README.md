@@ -50,14 +50,6 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 赣州新闻综合,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAI-YfkaMiPoX&secondToken=secondToken%3A4xWxvR0YiNTgTjnOqTX93KNNPk8&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526329228525&v3=1
 赣州公共,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAABmq7pwEifoX&secondToken=secondToken%3AzG0JU8A6fwL6O15xTMTT-AEauzI&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526334096251&v3=1
 赣州教育,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAAav2MXuiPoX&secondToken=secondToken%3AnlVfgzcJ_IMwc-NV78V1ZrRtw9w&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526335287668&v3=1
-九江新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
-九江公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8
-九江教育,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8
-上饶综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
-上饶经济,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
-新余新闻,http://43.138.192.238:19008/hls/tva/playlist.m3u8
-新余公共,http://43.138.192.238:19008/hls/tvb/playlist.m3u8
-新余教育,http://43.138.192.238:19008/hls/tvc/playlist.m3u8
 宜春新闻,https://live-yc.newsyc.com/wetef/sd/live.m3u8
 宜春公共,https://live-yc.newsyc.com/two/sd/live.m3u8
 抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
