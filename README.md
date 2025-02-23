@@ -102,7 +102,7 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 四海钓鱼,http://117.169.26.2:6610/PLTV/88888910/224/3221226330/index.m3u8
 四海钓鱼,http://117.169.26.2:6610/PLTV/88888888/224/3221226330/2/index.m3u8
 四海钓鱼,http://39.135.138.8:6610/PLTV/88888888/224/3221226330/717/index.m3u8?fmt=ts832hls
-快乐垂钓,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/KLCDMPP360.m3u8
+快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
 
 浙江频道,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
