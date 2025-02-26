@@ -222,7 +222,7 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 探亲,https://vd3.bdstatic.com/mda-rawfg6vqvu4dycif/cae_h264/1738321431728088398/mda-rawfg6vqvu4dycif.mp4
 天海长城,https://vd3.bdstatic.com/mda-jc2ek2m3xwn1af41/mda-jc2ek2m3xwn1af41.mp4
 我的老班长,https://vd3.bdstatic.com/mda-nk4djr542xutvsrv/cae_h264/1667654308692675265/mda-nk4djr542xutvsrv.mp4
-潇洒女兵,https://vde3.bdstatic.com/mda-kgwc7itpjpnuzv56/v1-cae/mda-kgwc7itpjpnuzv56.mp4
+潇洒女兵,https://vd3.bdstatic.com/mda-kgwc7itpjpnuzv56/v1-cae/mda-kgwc7itpjpnuzv56.mp4
 新兵连的一天,https://vd3.bdstatic.com/mda-pd38bwqrzpksppey/cae_h264/1680588851356365665/mda-pd38bwqrzpksppey.mp4
 战友你还记得吗,https://vd3.bdstatic.com/mda-ngcaus1x20wcqk4t/cae_h264/1657704974442583822/mda-ngcaus1x20wcqk4t.mp4
 一二三四,https://vd3.bdstatic.com/mda-qcpa20uydvrutbbb/cae_h264/1711381934230419183/mda-qcpa20uydvrutbbb.mp4
