@@ -120,7 +120,7 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 人生啊,https://vd3.bdstatic.com/mda-mm95pqirymccw3ri/cae_h264_delogo/1642532733109600572/mda-mm95pqirymccw3ri.mp4
 双双飞天仙配,https://vd3.bdstatic.com/mda-pc8izdpd5yxun4n1/cae_h264/1678532479317070131/mda-pc8izdpd5yxun4n1.mp4
 亮剑,https://vd3.bdstatic.com/mda-km9sidquzs0u1c3a/v1-cae/mda-km9sidquzs0u1c3a.mp4
-叶倩文-曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
+渴望,https://vd3.bdstatic.com/mda-nm2ncqgjxp9eea6x/cae_h264/1670085534430454146/mda-nm2ncqgjxp9eea6x.mp4
 杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
 杨钰莹-轻轻告诉你,http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
 问情,https://vd2.bdstatic.com/mda-kirqb8wp0wx6nm8b/v1-cae/1080p/mda-kirqb8wp0wx6nm8b.mp4?auth_key=1602762598-0-0-7b8d213378f4f9825a4e3d01ca6846bc&bcevod_channel=searchbox
