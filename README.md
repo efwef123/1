@@ -105,6 +105,24 @@ migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+广场舞,#genre#
+今夜舞起来,https://vd3.bdstatic.com/mda-qauhzuu3sxvk64b0/cae_h264/1706668666615086880/mda-qauhzuu3sxvk64b0.mp4
+你不来我不老,https://vd3.bdstatic.com/mda-pficwz0xkc1cavfk/cae_h264/1687208880351903848/mda-pficwz0xkc1cavfk.mp4
+最美最美,https://vd3.bdstatic.com/mda-pcd25d22xfxc44e7/cae_h264/1678758579811545912/mda-pcd25d22xfxc44e7.mp4
+歌在飞,https://vd3.bdstatic.com/mda-pfd04rvk3299piaz/cae_h264/1686702794838598586/mda-pfd04rvk3299piaz.mp4
+8首连跳,https://vd3.bdstatic.com/mda-nmh5vy9jfsvane8e/cae_h264/1671440575762987424/mda-nmh5vy9jfsvane8e.mp4
+我的情在何方,https://vd3.bdstatic.com/mda-nhjghjv22zgh24rg/cae_h264/1661028624736385313/mda-nhjghjv22zgh24rg.mp4
+凤凰飞,https://vd3.bdstatic.com/mda-pf1drs7bshy8yx9i/cae_h264/1685753291228498137/mda-pf1drs7bshy8yx9i.mp4
+无悔爱过这一回,https://vd3.bdstatic.com/mda-pck0xb8qsprawawb/cae_h264/1679360382079961180/mda-pck0xb8qsprawawb.mp4
+梨花飞情人泪,https://vd3.bdstatic.com/mda-pficaexyzv8mkas3/cae_h264/1687207225827275867/mda-pficaexyzv8mkas3.mp4
+下辈子不一定遇见,https://vd3.bdstatic.com/mda-pbhzq8ckhg7d3x2m/cae_h264/1676764582121338691/mda-pbhzq8ckhg7d3x2m.mp4
+财神爷爷到家中,https://vd3.bdstatic.com/mda-pbky67i038su2j0q/cae_h264/1677019693064502832/mda-pbky67i038su2j0q.mp4
+最炫民族风,https://vd3.bdstatic.com/mda-pfeh88uj8ak4wqfk/cae_h264/1686866729238721043/mda-pfeh88uj8ak4wqfk.mp4
+迷茫的爱,https://vd3.bdstatic.com/mda-qcwc8p1azm7p9bie/cae_h264/1711980521705448449/mda-qcwc8p1azm7p9bie.mp4
+吉祥四季,https://vd3.bdstatic.com/mda-rbe1tgfsws8vf3y6/360p/h264/1739582280439087932/mda-rbe1tgfsws8vf3y6.mp4
+草原风光美,https://vd3.bdstatic.com/mda-rbmhs2upk1vcj1cg/cae_h264/1740229270403900396/mda-rbmhs2upk1vcj1cg.mp4
+吉祥,https://vd3.bdstatic.com/mda-peszkb3y9ydy171i/cae_h264/1685430237809540771/mda-peszkb3y9ydy171i.mp4
+
 影视歌曲,#genre#
 少林少林,https://vd3.bdstatic.com/mda-qfbdrfz1itj7hbfw/cae_h264/1718266870890822912/mda-qfbdrfz1itj7hbfw.mp4
 牧羊曲,https://vd3.bdstatic.com/mda-nksbdgpzvw9ma1jz/cae_h264/1669537109131705006/mda-nksbdgpzvw9ma1jz.mp4
