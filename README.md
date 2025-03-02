@@ -85,7 +85,7 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 陕西卫视,http://117.169.26.2:6610/PLTV/88888910/224/3221225729/index.m3u8?IASHttpSessionId=OTT2251920250226012806025675
 甘肃卫视,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/gansustv/index.m3u8
 吉林卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-云南卫视,http://111.29.9.37:6610/000000001000/1000000002000024694/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
+云南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/yunnanstv/index.m3u8
 青海卫视,http://111.29.9.37:6610/000000001000/1000000002000013359/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
 新疆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8
 西藏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
