@@ -103,6 +103,7 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 广场舞,#genre#
+365个祝福,https://vd3.bdstatic.com/mda-pavepieagu8z9xp9/cae_h264/1675132773155247613/mda-pavepieagu8z9xp9.mp4
 心上有个你,https://vd3.bdstatic.com/mda-rbkd13e5d07h3ust/cae_h264/1740178477909859724/mda-rbkd13e5d07h3ust.mp4
 拥抱离去,https://vd3.bdstatic.com/mda-pem2mt8i6kqnwjzr/cae_h264/1684881759060775886/mda-pem2mt8i6kqnwjzr.mp4
 酒醉的蝴蝶,https://vd3.bdstatic.com/mda-mkc2b3925yfkjkbn/cae_h264_nowatermark/1636768135450292273/mda-mkc2b3925yfkjkbn.mp4
