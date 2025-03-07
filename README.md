@@ -103,6 +103,7 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 广场舞,#genre#
+桃花运,https://vd3.bdstatic.com/mda-perbvqzaavm46m3u/cae_h264/1685296614319185380/mda-perbvqzaavm46m3u.mp4
 龙抬头,https://vd3.bdstatic.com/mda-rbs44db0k0mauhkx/cae_h264/1740625725800170151/mda-rbs44db0k0mauhkx.mp4
 九月九的酒,https://vd3.bdstatic.com/mda-qj9faunkn1tiifdg/cae_h264/1728598493859871982/mda-qj9faunkn1tiifdg.mp4
 今夜舞起来,https://vd3.bdstatic.com/mda-qauhzuu3sxvk64b0/cae_h264/1706668666615086880/mda-qauhzuu3sxvk64b0.mp4
