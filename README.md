@@ -54,7 +54,6 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 萍乡新闻,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
-景德镇新闻综合,http://115.149.139.141:10001/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 
 各省卫视,#genre#
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
