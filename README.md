@@ -240,6 +240,7 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 八仙过海,https://vd3.bdstatic.com/mda-ngm442z7z40isxjb/cae_h264/1658459108673287460/mda-ngm442z7z40isxjb.mp4
 
 军营民谣,#genre#
+战友之歌,https://vd3.bdstatic.com/mda-qbkiajbj5a8ffyjc/cae_h264/1708520500960720792/mda-qbkiajbj5a8ffyjc.mp4
 梦回军营,https://vd3.bdstatic.com/mda-mm9eqihi7ya9gwm0/cae_h264/1640353690048740655/mda-mm9eqihi7ya9gwm0.mp4
 迷彩谣,https://vd3.bdstatic.com/mda-qmt9hwgctzhg4a1d/360p/h264/1735368386635555591/mda-qmt9hwgctzhg4a1d.mp4
 女兵的小秘密,https://vd3.bdstatic.com/mda-qgvkerb4zgmbfwfe/360p/h264/1722349640968654602/mda-qgvkerb4zgmbfwfe.mp4
