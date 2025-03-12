@@ -132,6 +132,7 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 吉祥,https://vd3.bdstatic.com/mda-peszkb3y9ydy171i/cae_h264/1685430237809540771/mda-peszkb3y9ydy171i.mp4
 
 影视歌曲,#genre#
+地道战,https://vd3.bdstatic.com/mda-qg1en389s7htut3c/360p/h264/1719915633304676916/mda-qg1en389s7htut3c.mp4
 弹棉花,https://vd3.bdstatic.com/mda-pb18v6f7zeamzfme/360p/h264/1675318530983502202/mda-pb18v6f7zeamzfme.mp4
 北上,https://vd3.bdstatic.com/mda-rbqf034abpcbfz66/cae_h264/1740502327338735880/mda-rbqf034abpcbfz66.mp4
 少林少林,https://vd3.bdstatic.com/mda-qfbdrfz1itj7hbfw/cae_h264/1718266870890822912/mda-qfbdrfz1itj7hbfw.mp4
