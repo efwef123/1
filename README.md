@@ -220,12 +220,6 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 八仙过海,https://vd3.bdstatic.com/mda-ngm442z7z40isxjb/cae_h264/1658459108673287460/mda-ngm442z7z40isxjb.mp4
 
 
-强军战歌,https://vd3.bdstatic.com/mda-qh06udjsz2vg4091/cae_h264/1722487909849759105/mda-qh06udjsz2vg4091.mp4
-军中绿花,https://vd3.bdstatic.com/mda-pb33bjh78cenx153/360p/h264/1675477330465473056/mda-pb33bjh78cenx153.mp4
-驼铃,https://vd3.bdstatic.com/mda-mku1pg7tvucsnfn8/cae_h264/1638148870057537269/mda-mku1pg7tvucsnfn8.mp4
-打靶归来,https://vd3.bdstatic.com/mda-me95axwabivzppb5/360p/h264/1620618421377979408/mda-me95axwabivzppb5.mp4
-为了谁,https://vd3.bdstatic.com/mda-pbt26qdy0ikwx82a/cae_h264/1677565986327568437/mda-pbt26qdy0ikwx82a.mp4
-我是一个兵,https://vd3.bdstatic.com/mda-qh14ygmvxa6a6pt2/cae_h264/1722608444423906006/mda-qh14ygmvxa6a6pt2.mp4
-铁打的营盘流水的兵,https://vd3.bdstatic.com/mda-neiym4da64s7pkjg/360p/h264/1653001418606443405/mda-neiym4da64s7pkjg.mp4
+
 
 
