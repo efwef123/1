@@ -58,7 +58,6 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 
 各省卫视,#genre#
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 湖南卫视,http://[2409:8087:3857:21:1000::dd]:6610/PLTV/88888910/224/3221225704/index.m3u8?IASHttpSessionId=RR846120250117165753829998&ispcode=910
 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
