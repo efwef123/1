@@ -105,6 +105,7 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 影视歌曲,#genre#
+回不去的温柔,https://vd3.bdstatic.com/mda-qmg438180ivu1v3k/360p/h264/1734404110645261215/mda-qmg438180ivu1v3k.mp4
 白龙马,https://vd3.bdstatic.com/mda-pee3p0qpm64n0rza/cae_h264/1684198835343358065/mda-pee3p0qpm64n0rza.mp4
 海尔兄弟,https://vd3.bdstatic.com/mda-qevc8qtnewf7yn96/cae_h264/1717058820569264580/mda-qevc8qtnewf7yn96.mp4
 地道战,https://vd3.bdstatic.com/mda-qg1en389s7htut3c/360p/h264/1719915633304676916/mda-qg1en389s7htut3c.mp4
