@@ -35,7 +35,7 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 江西影视旅游4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
 江西公共农业5,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls?zjiangxd
 江西少儿6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
-江西新闻7,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225576/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西新闻7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/10000100000000060000000000230385_0.smil/index.m3u8?fmt=ts2hls
 江西教育,http://117.169.26.2:6610/PLTV/88888910/224/3221226197/index.m3u8
 江西教育,http://117.169.26.2:6610/PLTV/88888888/224/3221226197/2/index.m3u8
 江西教育,http://39.135.138.8:6610/PLTV/88888888/224/3221226197/2/index.m3u8?fmt=ts2hls
