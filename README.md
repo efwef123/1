@@ -48,11 +48,6 @@ CHC动作电影,http://39.135.138.8:6610/PLTV/88888888/224/3221226308/695/index.
 赣州新闻综合,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAI-YfkaMiPoX&secondToken=secondToken%3A4xWxvR0YiNTgTjnOqTX93KNNPk8&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526329228525&v3=1
 赣州公共,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAABmq7pwEifoX&secondToken=secondToken%3AzG0JU8A6fwL6O15xTMTT-AEauzI&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526334096251&v3=1
 赣州教育,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAAav2MXuiPoX&secondToken=secondToken%3AnlVfgzcJ_IMwc-NV78V1ZrRtw9w&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526335287668&v3=1
-宜春新闻,https://live-yc.newsyc.com/wetef/sd/live.m3u8
-抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
-抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
-萍乡新闻,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
-萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 
 各省卫视,#genre#
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
